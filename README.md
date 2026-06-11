@@ -1,2 +1,2 @@
 # PilotPublish
-Learning to use pages
+Practising documenting endpoints for Fictional APIs.
