@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Response 
 
 ## Success — 204 No Content
@@ -11,4 +12,19 @@
   "jobId": "JOB-56789",
   "status": "deleted",
   "deletedAt": "2026-05-14T21:05:33Z"
+=======
+# Response 
+
+## Success — 204 No Content
+
+> Returns no body when deletion is successful.
+
+
+## Soft Delete Confirmation
+
+{
+  "jobId": "JOB-56789",
+  "status": "deleted",
+  "deletedAt": "2026-05-14T21:05:33Z"
+>>>>>>> 9b24c3c (updated readme)
 }
