@@ -76,7 +76,7 @@ The endpoint is books
 >
 > when the VALUE `fiction` is used - 
 
-![alt text](Queryparamtypevalue2.png)
+![correct parameter defined](Queryparamtypevalue2.png)
 
 >>>>>>> 247203a (files added)
 > Also see the status has now changed to 200 OK
