@@ -18,6 +18,6 @@
 > this is the query result when the VALUE used is outside of the accedptable inputs
 > See the `status message` - 400 Bad Request
 
-![Request not in range message ](BadRequest.png)
+![Request out of range message ](BadRequest.png)
 
 >>>>>>> a35552e (Folders reorganized)
