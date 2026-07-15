@@ -2,8 +2,7 @@
 
 ## Status
 
-> Perform status check to confirm that the API is available, working as intended
-> and is usable
+> Perform status check to confirm that the API is available, working as intended > and is usable
 
 > Here the edndpoint used is *status*
 
